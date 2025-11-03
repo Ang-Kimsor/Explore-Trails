@@ -3,7 +3,6 @@
   <a href="https://github.com/Kimsor1111/Explore-Trails">
     <img src="assets/images/logo.png" alt="Logo" width="250" height="250">
   </a>
-
   <h1 align="center">🌏 Explore Trail 🌏</h1>
   <a href="https://exploretrails.vercel.app/">View Demo</a>
 </div>
@@ -18,6 +17,7 @@
   The website focuses on delivering clear, organized content to help users explore courses, vocational opportunities, and educational resources easily.
   It is designed with simplicity and usability in mind, making it easy for anyone to find relevant information about skills development and career growth.
 </p>
+
 
 
 
