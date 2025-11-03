@@ -5,6 +5,7 @@
   </a>
 
   <h1 align="center">🌏 Explore Trail 🌏</h1>
+  <a href="https://exploretrails.vercel.app/">View Demo</a>
 </div>
 
 <p align="center">
@@ -16,9 +17,7 @@
   This project is built using <strong>HTML and CSS</strong> with a fully <strong>responsive design</strong> to ensure smooth navigation on desktop, tablet, and mobile devices.
   The website focuses on delivering clear, organized content to help users explore courses, vocational opportunities, and educational resources easily.
   It is designed with simplicity and usability in mind, making it easy for anyone to find relevant information about skills development and career growth.
-  <br />
-  <br />
-  <a href="https://exploretrails.vercel.app/">View Demo</a>
 </p>
+
 
 
