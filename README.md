@@ -1,4 +1,11 @@
-﻿# 🌏 Explore Trail 🌏
+<!-- PROJECT LOGO -->
+<div align="center">
+  <a href="https://github.com/Kimsor1111/Explore-Trails">
+    <img src="assets/images/logo.png" alt="Logo" width="250" height="250">
+  </a>
+
+  <h1 align="center">🌏 Explore Trail 🌏</h1>
+</div>
 
 <p align="center">
   <img src="assets/images/screenshot.png" alt="Website Screenshot" width="800"/>
@@ -13,4 +20,5 @@
   <br />
   <a href="https://exploretrails.vercel.app/">View Demo</a>
 </p>
+
 
