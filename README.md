@@ -16,9 +16,9 @@
 
 </div>
 
-<p align="center">
-  <img src="assets/images/screenshot.png" alt="Website Screenshot" width="800"/>
-</p>
+## About The Project 📖
+
+[![Project Screenshot][project-screenshot]]()
 
 ### Tools & Technologies 🛠️
 
@@ -40,7 +40,7 @@ Follow these steps to run the Explore Trails locally for development or testing.
 1. Clone the repository
 
    ```sh
-    git clone https://github.com/Kimsor1111/Armaf.git
+    git clone https://github.com/Ang-Kimsor/Explore-Trails.git
    ```
 
 2. Run the project on your computer and open the url localhost on browser to see the app running.
@@ -49,8 +49,9 @@ Follow these steps to run the Explore Trails locally for development or testing.
 
 **Ang Kimsor** - [Telegram](https://t.me/Thirtieth_October) - [angkimsor@gmail.com](mailto:angkimsor@gmail.com) - **Call Me ☎️ +85587932289**
 
-Project Link: [https://github.com/Kimsor1111/PteasDecor](https://github.com/Kimsor1111/Armaf)
+Project Link: [https://github.com/Kimsor1111/Explore-Trails](https://github.com/Ang-Kimsor/Explore-Trails)
 
+[project-screenshot]: src/assets/screenshot.png
 [HTML]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=E34F26
 [HTML-url]: https://www.w3schools.com/html/
 [CSS]: https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css&logoColor=1572B6
