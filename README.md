@@ -12,12 +12,50 @@
     It is designed with simplicity and usability in mind, making it easy for anyone to find relevant information about skills development and career growth.
   </p>
 
-  <a href="https://exploretrails.vercel.app/">View Demo</a>
+<a href="https://exploretrails.vercel.app/">View Demo</a>
+
 </div>
 
 <p align="center">
   <img src="assets/images/screenshot.png" alt="Website Screenshot" width="800"/>
 </p>
 
+### Tools & Technologies 🛠️
 
+[![HTML][HTML]][HTML-url]
+[![CSS][CSS]][CSS-url]
+[![JS][JS]][JS-url]
+[![FontAwesome][FontAwesome]][FontAwesome-url]
 
+## Getting Started 🚀
+
+Follow these steps to run the Explore Trails locally for development or testing.
+
+### Prerequisites ✅
+
+- Modern browser (Chrome, Firefox, Edge, etc.)
+
+### Installation 💾
+
+1. Clone the repository
+
+   ```sh
+    git clone https://github.com/Kimsor1111/Armaf.git
+   ```
+
+2. Run the project on your computer and open the url localhost on browser to see the app running.
+
+## Contact 📬
+
+**Ang Kimsor** - [Telegram](https://t.me/Thirtieth_October) - [angkimsor@gmail.com](mailto:angkimsor@gmail.com) - **Call Me ☎️ +85587932289**
+
+Project Link: [https://github.com/Kimsor1111/PteasDecor](https://github.com/Kimsor1111/Armaf)
+
+[HTML]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=E34F26
+[HTML-url]: https://www.w3schools.com/html/
+[CSS]: https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css&logoColor=1572B6
+[CSS-url]: https://www.w3schools.com/css/
+[JS]: https://img.shields.io/badge/javascript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[JS-url]: https://www.w3schools.com/js/
+[FontAwesome]: https://img.shields.io/badge/FontAwesome-20232A?style=for-the-badge&logo=font-awesome&logoColor=#538DD7
+[FontAwesome-url]: https://fontawesome.com/
